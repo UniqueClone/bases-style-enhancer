@@ -1,0 +1,8 @@
+# Obsidian plugin / Node artifacts
+node_modules/
+.DS_Store
+Thumbs.db
+*.log
+
+# Obsidian runtime data (not needed for plugin repo)
+data.json
