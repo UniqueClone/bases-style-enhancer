@@ -3,7 +3,7 @@
     "name": "Bases Style Enhancer",
     "version": "1.0.0",
     "minAppVersion": "1.5.0",
-    "description": "Enhance the appearance of Obsidian Bases views (starting with table font size)",
+    "description": "Enhance the appearance of Bases views (starting with table font size)",
     "author": "Ryan Lynch",
     "isDesktopOnly": true,
     "fundingUrl": "https://www.buymeacoffee.com/ryanlynch"
